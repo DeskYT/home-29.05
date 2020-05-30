@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Женя",
+    "surname":  "Смидт",
+    "country":  "Англия",
+    "age":  40,
+    "about":  "Английский фолк-гитарист и певец",
+    "imageSrc":  "https://img.discogs.com/rm-TtJ-PybcLqML0FefJJRzJCQg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-6835333-1543256249-6048.jpeg.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Ваня",
+    "surname":  "Паркер",
+    "country":  "США",
+    "age":  38,
+    "about":  "Американский Southern Gospel певец",
+    "imageSrc":  "https://img.discogs.com/yfetXNmO4qnCB_2e5977AG4LNMw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-2643018-1521449975-6660.jpeg.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Георгийя",
+    "surname":  "Новиков",
+    "country":  "Россия",
+    "age":  48,
+    "about":  "Доктор медицинских наук, профессор",
+    "imageSrc":  "https://data.cyclowiki.org/images/thumb/9/9c/Georij_Andreevich_Novikov.jpg/300px-Georij_Andreevich_Novikov.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Андрей",
+    "surname":  "Абрамов",
+    "country":  "Россия",
+    "age":  35,
+    "about":  "Заслуженный артист",
+    "imageSrc":  "https://www.film.ru/sites/default/files/people/1576176-917527.jpg"
+  }
+]
